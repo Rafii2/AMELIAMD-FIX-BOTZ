@@ -8,7 +8,7 @@
 // •Aldi
 // •WH-MODS-DEV
 // •KABUL (ZYKOBOTZ MD)
-// •PutraModz (me)
+// •PutraModz
 // •KING OFF BEAR
 // •Arifzyn
 // •ZeeoneOfc
@@ -19,7 +19,7 @@
 // •BIG THANKS FOR:
 // •ALLAH SWT
 // •ORTU
-// •AMELIA PUTRI SEPTIANY
+// •FIIXLYZ
 
 // NOTE NMA SESSION NY
 // •Amelia.data.json
@@ -62,71 +62,71 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727401', 'PutraModz', true]
+['6283155520535', 'Fiixlyz-MD', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727409'
-global.nomorown = '6283863727401'
-global.nomorown1 = '61483906014'
-global.nomorown2 = '6282214729677'//bisa nama pacarmu
-global.nomorown3 = '61483906014' //ganti 
+global.nomorbot = '6283155520535'
+global.nomorown = '62895606417060'
+global.nomorown1 = '62895606417060'
+global.nomorown2 = '62895606417060'//bisa nama pacarmu
+global.nomorown3 = '62895606417060' //ganti 
 global.nomorwa = '0'//gakusah di ganti
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Amelia Botz'
-global.namebot = ' AMELIA BOTZ MD'
-global.wm = '© AMELIA BOTZ | PutraModz'
+global.author = 'Created By Fiixlyz Botz'
+global.namebot = ' Fiixlyz BOTZ MD'
+global.wm = '© Fiixlyz BOTZ | FiiModz'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'PutraModz '
-global.wm3 = 'Amelia-MD'
+global.wm2 = 'FiiModz '
+global.wm3 = 'Fiixlyz-MD'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `AMELIA PUTRI SEPTIANY`
-global.stickpack = 'Amelia-Botz'
-global.gcname = 'Amelia Putri Septiany'
-global.nameown1= 'PutraModz'
-global.nameown2 = 'Purnama'
+global.titlebot = `Fiixlyz`
+global.stickpack = 'Fiixlyz-Botz'
+global.gcname = 'Fiixlyz'
+global.nameown1= 'FiiModz'
+global.nameown2 = 'Nothing'
 global.nameown3 = 'Nothing'
-global.packname2 = 'Amelia-MD'
-global.stickauth = `© PutraModz`
+global.packname2 = 'Fiixlyz-MD'
+global.stickauth = `© FiiModz`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown = 'PutraModz'
+global.nameown = 'FiiModz'
 global.ultahowner = 'Febuari 02 2024'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.sgc = 'https://chat.whatsapp.com/JFHl66ndDni90RNvhnpdyQ' //group whatsapp
+global.lynk = 'https://lynk.id/Fiixlyz'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r'
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.wame = 'wa.me/6283863727401'
-global.linkyt = 'https://youtube.com/@Putra_Modz_'
-global.tautanwa = 'wa.me/6283863727401' //kalau bisa link wa bisnis kalian
+global.sig = 'https://instagram.com/Fiixlyz'
+global.sgh = 'https://github.com/Rafii2' //github
+global.wame = 'wa.me/6283155520535'
+global.linkyt = 'https://youtube.com/Fiixlyz'
+global.tautanwa = 'wa.me/62895606417060' //kalau bisa link wa bisnis kalian
 global.sfb = 'https://www.facebook.com/' // facebook
 global.sdc = '-' //discord
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.fakeyt = 'https://youtube.com/@Putra_Modz_'
-global.snh = 'https://youtube.com/@Putra_Modz_'
-global.syt = 'https://youtube.com/@Putra_Modz_'
+global.gcwangsaf = 'https://chat.whatsapp.com/JFHl66ndDni90RNvhnpdyQ'
+global.fakeyt = 'https://youtube.com/Fiixlyz'
+global.snh = 'https://youtube.com/Fiixlyz'
+global.syt = 'https://youtube.com/Fiixlyz'
 global.tik = 'https://www.tiktok.com/'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0838 6372 7401'
-global.povo = '0838 6372 7401'
+global.pdana = '-'
+global.povo = '-'
 global.plinkaja = '-' //link aja
 global.pgopay = '-'
-global.ppulsa = '0838 6372 7401'
-global.ppulsa2 = '082214729678'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0895606417060'
+global.ppulsa2 = '083155520535'
+global.psaweria = 'https://saweria.co/Fiixlyz'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -157,10 +157,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.stiker_wait = 'Sabar Sayang 98% 𝚠𝚊𝚒𝚝!!'
-global.wait = 'Sabar Sayang 98% 𝚠𝚊𝚒𝚝!!'
-global.md = '_Tunggu Sabar Ya Sayang 😭..._'
-global.eror = 'Mohon Maaf Server Kami Sedang Error Njier!'
+global.stiker_wait = 'Sabar 𝚠𝚊𝚒𝚝!'
+global.wait = 'Sabar 𝚠𝚊𝚒𝚝!'
+global.md = '_Tunggu Sabar Ya_'
+global.eror = 'Mohon Maaf Server Kami Sedang Error!'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RESPOND GEME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
